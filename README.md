@@ -4,8 +4,10 @@ It demostrates data cleaning and wrangling, EDA, visualization, markdown usage a
 
 ## How to Use
 1.Fork this repository.
+
 2.Install required packages:  
   pip  install -r requirements.txt
+  
 3.open `Sleep_analysis.ipynb`
 
 ## Data Sources
